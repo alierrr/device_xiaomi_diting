@@ -20,3 +20,5 @@ It is also known as Xiaomi 12t pro (globally) and Redmi k50 ultra (China).
 | Camera | 200 MP (main), 8 MP (ultrawide), 2 MP (macro), 20 MP (front) |
 | Fingerprint |	under display, optical |
 | Sensors | accelerometer, gyro, proximity, compass, color spectrum |
+
+### Device picture
