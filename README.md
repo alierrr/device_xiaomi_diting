@@ -21,4 +21,11 @@ It is also known as Xiaomi 12t pro (globally) and Redmi k50 ultra (China).
 | Fingerprint |	under display, optical |
 | Sensors | accelerometer, gyro, proximity, compass, color spectrum |
 
-### Device picture
+### please read
+I'm don't own this device for now and I don't have time ,  but if you want personally to create device tree you can use this guides :
+[Gide1 English language](https://gist.github.com/mvaisakh/1a45694e33584592e8fae37fe29d757d)
+[Gide2 Chinese language](https://www.akr-developers.com/d/295)
+
+Good luck.
+
+Createed by : [@snapdragoon](https://t.me/sanpdragoon) on telegram
