@@ -23,8 +23,9 @@ It is also known as Xiaomi 12t pro (globally) and Redmi k50 ultra (China).
 
 ### please read
 I'm don't own this device for now and I don't have time ,  but if you want personally to create device tree you can use this guides :
-[Gide1 English language](https://gist.github.com/mvaisakh/1a45694e33584592e8fae37fe29d757d)
-[Gide2 Chinese language](https://www.akr-developers.com/d/295)
+[Gide1 an script auto ](https://github.com/twrpdtgen/twrpdtgen)
+[Gide2 English language](https://gist.github.com/mvaisakh/1a45694e33584592e8fae37fe29d757d)
+[Gide3 Chinese language](https://www.akr-developers.com/d/295)
 
 Createed by : [@snapdragoon](https://t.me/sanpdragoon) on telegram
 
